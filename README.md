@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaomarcosjova
-- 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on software development and cybersecurity
+- 👀 I’m interested in web development 
+- 🌱 I’m currently Javascript / React
+- 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me marcosjova3@gmail.com
 
 <!---
