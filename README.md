@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently Javascript / React
 - 💞️ I’m looking to collaborate on software development 
-- 📫 How to reach me marcosjova3@gmail.com
+- 📫 How to reach me marcosjova3@gmail.com or IG @j.marcosjova
 
 <!---
 joaomarcosjova/joaomarcosjova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
