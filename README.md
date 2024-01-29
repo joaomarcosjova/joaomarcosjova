@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joaomarcosjova
-- 👀 I’m interested in web development 
-- 🌱 I’m currently Javascript / React
-- 💞️ I’m looking to collaborate on software development 
-- 📫 How to reach me marcosjova3@gmail.com or IG @j.marcosjova
+- Hello I'm Marcos
+- 👀 Open for Job / Hire me
+- 🌱  I’m a Front-end Developer 
+- - find me on IG https://instagram.com/j.marcosjova/ or
+- linkedin https://www.linkedin.com/in/joaomarcosjova/
 
 <!---
 joaomarcosjova/joaomarcosjova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
