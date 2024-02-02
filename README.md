@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
 ## Frontend Developer | React Enthusiast | UI/UX Design Advocate
 
 Hi there! I'm Marcos, a passionate frontend developer with expertise in building modern web applications using cutting-edge technologies. Here's a little about me and what I do:
@@ -26,7 +24,3 @@ Feel free to explore my projects and repositories. If you'd like to collaborate 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomarcosjova)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=61DAFB)](https://yourportfolio.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/j.marcosjova/)
-
-
-Let's build amazing things together! 💻✨
-
