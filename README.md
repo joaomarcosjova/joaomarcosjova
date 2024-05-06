@@ -1,4 +1,4 @@
-## Frontend Developer | React Enthusiast | UI/UX Design Advocate
+## Frontend Engineer | React Enthusiast | UI/UX Design Advocate
 
 Hi there! I'm Marcos, a passionate frontend developer with expertise in building modern web applications using cutting-edge technologies. Here's a little about me and what I do:
 
