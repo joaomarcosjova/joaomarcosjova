@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Marcos!<br>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/><br>👩🏻‍🎓 I am curently building [Ithuta](https://ithuta.vercel.app) using MERN stack<br/><br>🎨 I make videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@joaomarcosjova)<br/><br>
+
+Hi, I'm **Marcos**, a software engineer with a passion for building full-stack web applications. I love creating clean, efficient code and bringing ideas to life through modern web technologies.
+
+👩🏻‍🎓 I am curently building [Ithuta](https://ithuta.vercel.app) using MERN stack
+🎨 I make videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@joaomarcosjova)
 
 
 ## 🌐 Socials:
