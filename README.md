@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-Hi, I'm **Marcos**, a software engineer with a passion for building full-stack web applications. I love creating clean, efficient code and bringing ideas to life through modern web technologies.
+Hi, I'm **Marcos**, a software engineer who builds full-stack web applications using the MERN stack. I enjoy writing clean, efficient code and bringing ideas to life with modern web technologies. All my projects are built from the ground up — from planning and design to solving real-world problems with code. 
 
-👩🏻‍🎓 I am curently building [Ithuta](https://ithuta.vercel.app) using MERN stack
+👩🏻‍🎓 I am curently building [Ithuta](https://ithuta.vercel.app) using MERN stack <br>
 🎨 I make videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@joaomarcosjova)
 
 
