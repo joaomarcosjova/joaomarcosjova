@@ -1,7 +1,7 @@
 <!-- README.md for Joao Marcos Jova -->
 
 <h1 align="center">Hi there 👋, I'm Joao Marcos Jova</h1>
-<h3 align="center">Senior Software Engineer | Problem Solver | Code Enthusiast</h3>
+<h3 align="center">Software Engineer | Problem Solver | Code Enthusiast</h3>
 
 ---
 
