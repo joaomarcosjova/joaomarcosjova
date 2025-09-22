@@ -2,7 +2,8 @@
 
 I'm a software engineer who builds full-stack web applications. I enjoy writing clean, efficient code and bringing ideas to life with modern web technologies. All my projects are built from the ground up — from planning and design to solving real-world problems with code. 
 
-👩🏻‍🎓 I am curently building  [Allzaar](https://allzaar.com) / [Fastdeploy](https://fastdeploy.space) / [Ithuta](https://ithuta.vercel.app) <br>
+🛜 My projects in production [Fastdeploy](https://fastdeploy.space) /  [Allzaar](https://allzaar.com) <br>
+👩🏻‍🎓 I am curently building [Ithuta](https://ithuta.vercel.app) <br>
 🎨 I make videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/@joaomarcosjova)
 
 
